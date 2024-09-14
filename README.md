@@ -27,4 +27,4 @@ The **Smart Ambulance Routing System** is designed to provide the fastest and sa
 ---
 
 Contributors
-Developed by Team Logic Lords for CSI Hackathon 2024.ing.git
+Developed by Team Logic Lords for CSI Hackathon 2024
