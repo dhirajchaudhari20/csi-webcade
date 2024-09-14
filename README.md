@@ -26,11 +26,5 @@ The **Smart Ambulance Routing System** is designed to provide the fastest and sa
 
 ---
 
-
-Usage
-Enter your origin and destination, or use the Use My Location button.
-Click Calculate Route to see the fastest route.
-View nearby hospitals, check availability, and choose the hospital.
-Start the ambulance route for turn-by-turn directions.
 Contributors
 Developed by Team Logic Lords for CSI Hackathon 2024.ing.git
